@@ -1,0 +1,187 @@
+[
+    {
+      "id": 1,
+      "name": "Lindt Excellence 70% Dark Chocolate",
+         "price": 5.99,
+      "category": "paid",
+      "origin": "Switzerland",
+      "title": "Lindt Excellence 70% is a rich and intense dark chocolate with smooth cocoa flavor for true chocolate enthusiasts.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnLJWCua_5zJisqg49MZCYUUTpmIi1rPcIMg&s"
+    },
+    {
+      "id": 2,
+      "name": "Hershey's Milk Chocolate Bar",
+      
+      "price": "Free",
+      "category": "Free",
+      "origin": "United States",
+      "title": "Hershey's Milk Chocolate Bar is a classic, creamy chocolate made with farm-fresh milk.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS_wlKNrMQEnUttgWG9E4J8scOxB9SwgB3Ng&s"
+    },
+    {
+      "id": 3,
+      "name": "Toblerone Milk Chocolate with Honey and Almond Nougat",
+      "price": 4.50,
+      "category": "paid",
+      "origin": "Switzerland",
+      "title": "Toblerone’s iconic triangular bar, made with Swiss milk chocolate, honey, and almond nougat, offers a unique flavor and texture.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWX0zPDZyXJTeITByq1-DJSJFMn4tTJ2RHPA&s"
+    },
+    {
+      "id": 4,
+      "name": "Milka Alpine Milk Chocolate",
+         "price": 3.00,
+      "category": "paid",
+      "origin": "Germany",
+      "title": "Milka Alpine Milk Chocolate is a smooth, creamy chocolate made with 100% Alpine milk.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv2P0_sYuho2Ta-Q-SvGiMpATwsL9DYv0enQ&s"
+    },
+    {
+      "id": 5,
+      "name": "Godiva Signature Dark Chocolate Truffles",
+          "price": 12.99,
+      "category": "paid",
+      "origin": "Belgium",
+      "title": "Godiva’s Dark Chocolate Truffles deliver an intense, rich cocoa experience wrapped in smooth dark chocolate.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDSWzLQDW0xBJKuqIEG1NfVak8Ffu3G4J70w&s"
+    },
+    {
+      "id": 6,
+      "name": "Ferrero Rocher",
+           "price": 10.00,
+      "category": "paid",
+      "origin": "Italy",
+      "title": "Ferrero Rocher offers a luxurious experience with its crunchy hazelnut shell, smooth chocolate, and whole hazelnut center.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRLFu1i0WNKRCsy3AEhHyjiIVD_LsJ8ozq3Q&s"
+    },
+    {
+      "id": 7,
+      "name": "Mars Bar",
+        "price": 1.50,
+      "category": "paid",
+      "origin": "United States",
+      "title": "Mars Bar is a delicious blend of nougat, caramel, and milk chocolate that delivers a satisfying treat.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIy8T48GRBWUWyOVaPCzPJWiORplXCr2a0kg&s"
+    },
+    {
+      "id": 8,
+      "name": "Lindt Swiss Premium Milk Chocolate",
+         "price": 7.50,
+      "category": "paid",
+      "origin": "Switzerland",
+      "title": "Lindt Swiss Premium Milk Chocolate is a velvety smooth chocolate made from the finest Swiss ingredients.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZOmWBzN1OOS-MNsgreR_4XcTNaMEfXMgu0g&s"
+    },
+    {
+      "id": 9,
+      "name": "Hershey's Cookies 'n' Creme",
+      
+      "price": 2.50,
+      "category": "paid",
+      "origin": "United States",
+      "title": "Hershey's Cookies 'n' Creme combines the sweet flavor of white chocolate with crunchy cookie bits.",
+      "image": "https://images-cdn.ubuy.co.in/66d7ede14d544c795c43b15b-hershey-s-cookies-n-creme-candy-bars.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Toblerone Dark Chocolate",
+      
+      "price": 5.00,
+      "category": "paid",
+      "origin": "Switzerland",
+      "title": "Toblerone Dark Chocolate combines rich dark Swiss chocolate with honey and almond nougat for a bittersweet treat.",
+      "image": "https://m.media-amazon.com/images/I/61ZMcaGtOsL.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Milka Oreo Chocolate",
+         "price": 3.50,
+      "category": "paid",
+      "origin": "Germany",
+      "title": "Milka Oreo Chocolate is a perfect combination of creamy Milka chocolate and crunchy Oreo cookie pieces.",
+      "image": "https://images-cdn.ubuy.co.in/64eba611d906cb2f57243590-milka-oreo-sandwich-chocolate-92-g.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Godiva Milk Chocolate Caramel Bar",
+          "price": "Free",
+      "category": "Free",
+      "origin": "Belgium",
+      "title": "Godiva’s Milk Chocolate Caramel Bar offers a perfect blend of smooth milk chocolate and rich, buttery caramel.",
+      "image": "https://m.media-amazon.com/images/I/519fALTUDWL.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Ferrero Collection",
+           "price": 15.00,
+      "category": "paid",
+      "origin": "Italy",
+      "title": "Ferrero Collection features an assortment of Ferrero Rocher, Ferrero Rondnoir, and Raffaello for a mix of chocolate indulgence.",
+      "image": "https://rukminim2.flixcart.com/image/750/900/khavrm80-0/chocolate/5/l/a/269-collection-assorted-chocolates-24-pieces-ferrero-rocher-original-imafxcaxeefygezx.jpeg?q=20&crop=false"
+    },
+    {
+      "id": 14,
+      "name": "Mars Fun Size Pack",
+        "price": "Free",
+      "category": "Free",
+      "origin": "United States",
+      "title": "The Mars Fun Size Pack offers bite-sized versions of the classic Mars Bar, perfect for sharing or snacking.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvqjdvD2QABTRPTV2OlqdkwFWIsed0zwSBUg&s"
+    },
+    {
+      "id": 15,
+      "name": "Lindt Lindor Milk Chocolate Truffles",
+         "price": 9.99,
+      "category": "paid",
+      "origin": "Switzerland",
+      "title": "Lindt Lindor Truffles are filled with smooth, melting milk chocolate encased in a delicate shell.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsAfsrDCjOHftS2y0SpcB57JE8pn4dggBnMg&s"
+    },
+    {
+      "id": 16,
+      "name": "Hershey's Kisses Milk Chocolate",
+      
+      "price": 3.99,
+      "category": "paid",
+      "origin": "United States",
+      "title": "Hershey's Kisses are classic bite-sized chocolates wrapped in foil, perfect for gifting or sharing.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0mg2LFhq_OxHElS5qv83Gs9JHNN4G9i5DuQ&s"
+    },
+    {
+      "id": 17,
+      "name": "Toblerone White Chocolate",
+      
+      "price": 5.50,
+      "category": "paid",
+      "origin": "Switzerland",
+      "title": "Toblerone White Chocolate offers a creamy and smooth white chocolate experience with honey and almond nougat.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-OdelcUZWNjBQBmYcV9a_zicNFu7W-S47kw&s"
+    },
+    {
+      "id": 18,
+      "name": "Milka Noisette Chocolate Bar",
+         "price": 3.25,
+      "category": "paid",
+      "origin": "Germany",
+      "title": "Milka Noisette is a deliciously creamy milk chocolate bar infused with smooth hazelnut flavor.",
+      "image": "https://m.media-amazon.com/images/I/514GkXxtNqL.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Godiva Chocolate Domes",
+          "price": "Free",
+      "category": "Free",
+      "origin": "Belgium",
+      "title": "Godiva Chocolate Domes offer a rich and indulgent chocolate experience with a crunchy exterior and creamy filling.",
+      "image": "https://m.media-amazon.com/images/I/51Yf02FkRFL.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Godiva Chocolate Domes",
+          "price": "Free",
+      "category": "Free",
+      "origin": "Belgium",
+      "title": "Godiva Chocolate Domes offer a rich and indulgent chocolate experience with a crunchy exterior and creamy filling.",
+      "image": "https://m.media-amazon.com/images/I/61lcjwDyTaL.jpg"
+    }
+]
